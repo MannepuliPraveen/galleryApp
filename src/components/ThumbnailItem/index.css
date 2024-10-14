@@ -1,0 +1,16 @@
+/* Write your code here. */
+.smallImage {
+  list-style-type: none;
+  margin-right: 2px;
+}
+.imageBtn {
+  background-color: transparent;
+  border: none;
+}
+.thumbnailImage {
+  border-radius: 5px;
+  opacity: 0.5;
+}
+.active {
+  opacity: 1;
+}

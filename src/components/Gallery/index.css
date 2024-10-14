@@ -1,0 +1,19 @@
+.appContainer {
+  display: flex;
+  justify-content: center;
+}
+.galleryContainer {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 85%;
+}
+.largeImage {
+  width: 100%;
+}
+.smallImagesContainer {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px;
+}
